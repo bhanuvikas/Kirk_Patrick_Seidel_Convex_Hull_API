@@ -15,6 +15,7 @@ Or if you want to modify the source-code or input:
   5. You can check the resulting output visualization as kirk.gif in the same directory.
   
   Project done by
+  
   Ellore Anish Reddy
   
   Bhanuvikas Yaganti
