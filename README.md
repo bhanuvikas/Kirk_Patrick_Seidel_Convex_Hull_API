@@ -17,9 +17,7 @@ Or if you want to modify the source-code or input:
   Project done by
   
   Ellore Anish Reddy
-  
   Bhanuvikas Yaganti
-  
   Parameswar Kurakula
   
 
