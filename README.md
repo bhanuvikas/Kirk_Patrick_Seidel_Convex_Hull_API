@@ -13,4 +13,10 @@ Or if you want to modify the source-code or input:
         ./a.out
         python3 new_visual.py
   5. You can check the resulting output visualization as kirk.gif in the same directory.
+  
+  Project done by
+  Ellore Anish Reddy
+  Bhanuvikas Yaganti
+  Parameswar Kurakula
+  
 
